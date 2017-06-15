@@ -17,9 +17,24 @@ header{
 	background-repeat: no-repeat;
 }
 header img{
-    padding-top: 166px;
-    width: 279px;
+    padding-top: 268px;
+    width: 319px;
 }
 .navbar-default .container .list-menu .collapse .nav>li>a{
   color:white;
+}
+.border{
+	border-radius: 100%;
+    border: 3px solid white;
+    height: 67px;
+    width: 67px;
+    text-align: center;
+    position: absolute;
+    top: 89%;
+    left: 48%;
+}
+#adown{
+    color: white;
+    font-size: 41px;
+    padding: 10px 0;
 }
