@@ -51,6 +51,11 @@ header img{
     position: relative;
     left: 462px;
 }
+.icono{
+    position: relative;
+    right: 55px;
+    top: 45px;
+}
 .cake{
 	background-image: url(../img/bg-quote.jpg);
 	height: 100vh;
